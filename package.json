@@ -1,0 +1,19 @@
+{
+  "name": "pip-2021-intro",
+  "version": "1.0.0",
+  "description": "This is how you use node to make a server",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cthulian/pip-2021-node-intro.git"
+  },
+  "author": "@jselody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cthulian/pip-2021-node-intro/issues"
+  },
+  "homepage": "https://github.com/Cthulian/pip-2021-node-intro#readme"
+}
