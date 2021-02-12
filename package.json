@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cthulian/pip-2021-node-intro/issues"
   },
-  "homepage": "https://github.com/Cthulian/pip-2021-node-intro#readme"
+  "homepage": "https://github.com/Cthulian/pip-2021-node-intro#readme",
+  "dependencies": {
+    "chance": "^1.1.7"
+  }
 }
